@@ -6,24 +6,24 @@ $config = array(
     'example-userpass' => array(
         'exampleauth:UserPass',
         'admin:admin' => array(
-            'uid' => 'admin',
-            'full name' => 'Admin User',
-            'email' => 'admin@th3.com',
+            'Username' => 'admin',
+            'Full Name' => 'Admin User',
+            'Email' => 'admin@th3.com',
         ),
         'admin1:admin1' => array(
-            'uid' => 'admin1',
-            'full name' => 'Admin User 1',
-            'email' => 'admin1@th3.com',
+            'Username' => 'admin1',
+            'Full Name' => 'Admin User 1',
+            'Email' => 'admin1@th3.com',
         ),
         'user1:user1' => array(
-            'uid' => 'user1',
-            'full name' => 'User 1',
-            'email' => 'user1@th3.com',
+            'Username' => 'user1',
+            'Full Name' => 'User 1',
+            'Email' => 'user1@th3.com',
         ),
         'user2:user2' => array(
-            'uid' => 'user2',
-            'full name' => 'User 2',
-            'email' => 'user2@th3.com',
+            'Username' => 'user2',
+            'Full Name' => 'User 2',
+            'Email' => 'user2@th3.com',
         ),
     ),
 );
